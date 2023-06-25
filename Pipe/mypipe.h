@@ -1,0 +1,1 @@
+void mypipe(char s[1024]);
